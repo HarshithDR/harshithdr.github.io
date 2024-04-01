@@ -1,4 +1,4 @@
-# Harshith Deshalli Ravi
+# Data Science Master's Student
 
 Chicago, IL | harshithdr10@gmail.com | [LinkedIn](linkedin.com/in/harshith-deshalli-ravi) | [GitHub](github.com/HarshithDR) | 224-566-5998
 
