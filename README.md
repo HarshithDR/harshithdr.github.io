@@ -1,14 +1,16 @@
 # Data Science Master's Student
 
-Chicago, IL | harshithdr10@gmail.com | [LinkedIn](linkedin.com/in/harshith-deshalli-ravi) | [GitHub](github.com/HarshithDR) | 224-566-5998
+Chicago, IL | harshithdr10@gmail.com | [LinkedIn](linkedin.com/in/harshith-deshalli-ravi)
 
 ## Education
 - **Masters in Data Science**  
-  Illinois Institute of Technology, Chicago, IL (May 2025)
+   - Illinois Institute of Technology, Chicago, IL (May 2025)
+   - Applied Statistics, Monte Carlo in Finance, Machine learning algorithms, Statistical Learning, Java, Algorithms, Sturctural Query Language, Prediction Models.
 
 - **Bachelor of Electrical and Electronics Engineering**  
   Global Academy of Technology, Bengaluru, IND (August 2023)  
   Visvesvaraya Technological University (VTU), GPA 3.42
+  - Advanced Calculus, Probability, Statistics, Electrical Motors, C, C++, Internet of Things, Electrical Circuit Design, Analog Electronics, Digital Electronics.
 
 ## Skills
 - **Languages:** Python, Java, C/C++
