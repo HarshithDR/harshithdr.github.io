@@ -62,6 +62,7 @@ _August 2022 – October 2022_
 
 ## Honors and Achievements
 - Translated more than 5 NPTEL courses on programming and information security from English to Kannada language.
+- Won first place in 72hrs Hackathon conducted by OraHacks in Drive Capital Chicago, April 2024.
 - Achieved third place in Sentinel Hack 3.0 and Hack Bites 2.0.
 - Organized a coding event called Bits Bytes for the inter-college festival, interact held at GAT, Bengaluru.
 - Orchestrated a workshop on Linux Fundamentals and Bash Scripting for departmental students at GAT, Bengaluru.
