@@ -45,6 +45,11 @@ _January 2024 – Present_
 - Leading development of a comprehensive data visualization application integrating Matplotlib, Plotly, Seaborn and data analysis tools.
 - Enhancing backend operations using Python Flask and optimizing user interaction with a JavaScript frontend.
 
+**SummarAIze**
+_March 2024 - April 2024_
+- Led the development of SummarAIze, a dynamic platform reminiscent of Instagram but focused on delivering informative content. I orchestrated the integration of backend systems and the setup of AI models, empowering users with personalized content summaries through engaging audio-visual presentations.
+- Enriched user experiences by implementing features such as source page links for content validation and a responsive chatbot. Ensured seamless interaction for users, tailoring content summaries to their preferences and fostering deeper engagement with the platform.
+
 **Advanced Automobile Monitoring System (A.D.A.M.S)**  
 _October 2022 - May 2023_
 - Engineered an innovative monitoring device connecting to the vehicle's CAN bus, enhancing safety by detecting accidents and alerting emergency services.
